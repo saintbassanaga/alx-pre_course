@@ -2,5 +2,7 @@
 ‘Command’
 =======
 touch up_to_date
-printf ‘touch up_to_date’ > up_to_date.
+printf ‘touch up_to_date’ > up_to_date
+git add .
+git pull
 >>>>>>> 0c689ea1892a906aacc585c391b427aaca7e7229
